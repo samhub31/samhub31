@@ -1,4 +1,4 @@
-👋 Hi, I'm Samuel Osho
+👋 Hi, I'm Samuel Osho<br/>
 Full Stack Developer | React Native Enthusiast | Problem Solver
 
 🚀 Passionate about building scalable, user-friendly applications from idea to deployment.
