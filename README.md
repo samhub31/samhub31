@@ -23,6 +23,8 @@ Serverless & cloud functions
 
 Scalable backend architecture
 
+📊 Dev Stats
+[![samhub31's GitHub stats](https://github-readme-stats.vercel.app/api?username=samhub31)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 Let’s Connect
 Email: samuelosho83@gmail.com
