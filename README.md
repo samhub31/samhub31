@@ -14,7 +14,7 @@ Tools & Others: Git, GitHub, REST APIs, Paystack Integration, AsyncStorage, JWT 
 
 💳 Payment integrations (Paystack SDK, bank transfers, wallet funding systems)
 
-⚡ Node.js/Express backends with MongoDB
+⚡ Node.js/Express backends with MongoDB<br/>
 
 🌱 Currently Learning
 Advanced React Native animations
@@ -23,11 +23,10 @@ Serverless & cloud functions
 
 Scalable backend architecture
 
-📈 GitHub Stats
 
 📫 Let’s Connect
 Email: samuelosho83@gmail.com
 
-LinkedIn: linkedin.com/in/your-link
+🔗 LinkedIn: linkedin.com/in/your-link
 
 💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
