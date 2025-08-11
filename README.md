@@ -58,6 +58,6 @@ Scalable backend architecture
 📫 Let’s Connect
 Email: samuelosho83@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/your-link
+🔗 LinkedIn: [MyLinkedInProfile](https://wwww.linkdein.com/in/samuel-osho-88383924b)
 
 💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
